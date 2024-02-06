@@ -1,0 +1,13 @@
+If you want to run index.js as node project then you can use 
+npm init
+------------------
+npm install express --save
+-----------------
+to install node module
+npm i
+----------------------------
+npm install -g nodemon
+nodemon index.js
+
+to use for development only and can be saved as dev depenndency
+npm install --save-dev nodemon
